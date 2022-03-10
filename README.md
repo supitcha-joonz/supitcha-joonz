@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hello, Welcome to my coding.
+<h1>Hello, Welcome to my code.</h1>
+Nice to meet you everyone.
 
 <!--
 **supitcha-joonz/supitcha-joonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
